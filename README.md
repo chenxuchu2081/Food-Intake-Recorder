@@ -29,3 +29,9 @@
 
 ### User Guide
 ![User Guide](/image/User_guide.png)
+
+### References
++ Swift 4.2
+https://swift.org/
++ Charts(API)
+https://github.com/danielgindi/Charts
