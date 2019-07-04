@@ -5,12 +5,12 @@
 ### Functional Requirement
 * Account
 > - Register
-  - Login
-  - Single Login
-  - Edit Account data
+>  - Login
+>  - Single Login
+>  - Edit Account data
 * Add Data
 > - Record voice note
-  - Table Way
+>  - Table Way
 * Search function
 * Share function
 * Calorie Analysis
