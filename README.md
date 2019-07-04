@@ -8,7 +8,7 @@
 >  - Login
 >  - Single Login
 >  - Edit Account data
-![account page](/image/SignUp.png)![account page](/image/Login.png) ![personal data](/image/Personal Information.png)
+![account page](/image/SignUp.png)![account page](/image/Login.png)![account page](/image/Personal Information.png)
 --------------------------------------
 * Add Data
 > - Record voice note
