@@ -4,12 +4,12 @@
 
 ### Functional Requirement
 * Account
-  - Register
+> - Register
   - Login
   - Single Login
   - Edit Account data
 * Add Data
-  - Record voice note
+> - Record voice note
   - Table Way
 * Search function
 * Share function
