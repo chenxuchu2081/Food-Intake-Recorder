@@ -11,6 +11,8 @@
 * Add Data
 > - Record voice note
 >  - Table Way
+![add data page](/image/addData.png)
+--------------------------------------
 * Search function
 * Share function
 * Calorie Analysis
