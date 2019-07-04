@@ -15,3 +15,10 @@
 * Share function
 * Calorie Analysis
 * Mark location on Map
+
+
+### StoryBoard
+![Storyboard](/image/Storyboard.png)
+
+### User Guide
+![User Guide](/image/User_guide.png)
