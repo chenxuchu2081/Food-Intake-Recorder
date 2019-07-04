@@ -19,7 +19,7 @@
 * Share function
 ![delete and share](/image/dalete.png)
 * Calorie Analysis
-![calorie](/image/Calorie .png)
+![calorie](/image/Calorie.png)
 * Mark location on Map
 ![gps](/image/map.png)
 -------------------------------------
