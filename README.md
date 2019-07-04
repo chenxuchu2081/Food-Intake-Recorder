@@ -9,7 +9,6 @@
 >  - Single Login
 >  - Edit Account data
 ![account page](/image/SignUp.png)![account page](/image/Login.png)
-![account page](/image/Personal Information.png)
 --------------------------------------
 * Add Data
 > - Record voice note
@@ -18,9 +17,12 @@
 --------------------------------------
 * Search function
 * Share function
+![delete and share](/image/dalete.png)
 * Calorie Analysis
+![calorie](/image/Calorie .png)
 * Mark location on Map
-
+![gps](/image/map.png)
+-------------------------------------
 
 ### StoryBoard
 ![Storyboard](/image/Storyboard.png)
