@@ -3,7 +3,7 @@
 > For manage weight, peoples always eat low calorie or sugar-free food. So, we develop the app of Food Intake Recorder as a reminder to keep a record of his/her food intake.
 
 
-### Watch the video: <p>This is <a href="http://example.com/" title="Download">
+### Watch the video: 
 [![watch the video](https://i.ya-webdesign.com/images/youtube-logo-2016-png.png)](https://www.youtube.com/watch?v=Z7sHhBYkOkc&feature=youtu.be)
 
 ### Functional Requirement
